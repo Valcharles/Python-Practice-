@@ -1,6 +1,6 @@
 # Character Input
 [Link to task](https://www.practicepython.org/exercise/2014/01/29/01-character-input.html)
-## Exercise 1
+## :briefcase:  Exercise 1
 Create a program that asks the user to enter their name and their age.
 Print out a message addressed to them that tells them the year that they will turn 100 years old. 
 Note: for this exercise, the expectation is that you explicitly write out the year
