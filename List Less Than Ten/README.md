@@ -15,6 +15,6 @@ Write this in one line of Python.
 | File | Description |
 | -------- | -------- |
 | less-than-five.py | prints out numbers less than  5 from list (main task) |
-| child-list.py | prints out a new list of numbers less than 5 from parent list |
-| user-number-filter.py | prints a new list of numbers in parent list less than number entered by user |
+| child-list.py | prints out a new list of numbers less than 5 from parent list (Extra 1) |
+| user-number-filter.py | prints a new list of numbers in parent list less than number entered by user (Extra 2) |
 
