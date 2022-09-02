@@ -1,4 +1,5 @@
 # Exercise 3
+[Link to Task](https://www.practicepython.org/exercise/2014/02/15/03-list-less-than-ten.html)
 ## Main Task
 Take a list, say for example this one:
 
