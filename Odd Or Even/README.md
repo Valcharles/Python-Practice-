@@ -14,7 +14,7 @@ If check divides evenly into num, tell that to the user. If not, print a differe
 
 | File | Description |
 | ----------- | ----------- |
-| odd-even-checker.py | Checks if number is odd or even |
-| multiples-of-4.py | Checks if number is a multiple of 4 |
-| clean-divisor-check.py| Checks if the numerator is a multiple of the denominator
+| odd-even-checker.py | Checks if number is odd or even (Main Task) |
+| multiples-of-4.py | Checks if number is a multiple of 4 (Extra 1) |
+| clean-divisor-check.py| Checks if the numerator is a multiple of the denominator (Extra 2)| 
 
