@@ -4,6 +4,6 @@ check= int(input('Enter denominator'))
 
 #Process & Display result
 if num % check == 0:
-  print (str(check) + ' is a clean divisor of ' + str(num))
+  print (str(num) + ' is a multiple of ' + str(check))
 else:
-   print (str(check) + ' is not a clean divisor of ' + str(num))
+   print (str(num) + ' is not a multiple of ' + str(check))
