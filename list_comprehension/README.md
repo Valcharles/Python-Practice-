@@ -1,5 +1,5 @@
 # 💼💼💼List Comprehensions 
-[Link to Task] (https://www.practicepython.org/exercise/2014/03/19/07-list-comprehensions.html)
+[Link to Task](https://www.practicepython.org/exercise/2014/03/19/07-list-comprehensions.html)
 
 ## 📁📁📁 Task 
 Let’s say I give you a list saved in a variable:
