@@ -11,6 +11,9 @@ Depending on whether the number is even or odd, print out an appropriate message
 If check divides evenly into num, tell that to the user. If not, print a different appropriate message.
 
 ### Solution descriptor
-| File | Descriptor|
-| odd-even-checker.py | Checks if number is even or odd |
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
