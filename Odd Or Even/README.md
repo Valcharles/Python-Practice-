@@ -14,6 +14,6 @@ If check divides evenly into num, tell that to the user. If not, print a differe
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
+| File | Description |
 | Paragraph | Text |
 
