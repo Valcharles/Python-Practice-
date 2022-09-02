@@ -12,8 +12,9 @@ If check divides evenly into num, tell that to the user. If not, print a differe
 
 ### Solution descriptor
 
-| Syntax | Description |
-| ----------- | ----------- |
 | File | Description |
-| Paragraph | Text |
+| ----------- | ----------- |
+| odd-even-checker.py | Checks if number is odd or even |
+| multiples-of-4.py | Checks if number is a multiple of 4 |
+| clean-divisor-check.py| Checks if the numerator is a multiple of the denominator
 
