@@ -1,4 +1,4 @@
-# Divisors  :division:
+# Divisors  
 [Link to task](https://www.practicepython.org/exercise/2014/02/26/04-divisors.html)
 ## :briefcase: :briefcase: :briefcase:Exercise 4 
 Create a program that asks the user for a number and then prints out a list of all the divisors of that number. 
