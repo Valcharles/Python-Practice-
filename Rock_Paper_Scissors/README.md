@@ -8,4 +8,4 @@ Make a two-player Rock-Paper-Scissors game. (Hint: Ask for player plays (using i
 
 1. Rock beats scissors
 2. Scissors beats paper
-3.Paper beats rock  
+3. Paper beats rock  
