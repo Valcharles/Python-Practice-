@@ -18,7 +18,7 @@ while True:
     else:
         print('Invalid entry')
     print('Will you like to play again?')
-    print("Type 'yes' to continue and 'no' to continue")
+    print("Type 'yes' to continue and 'no' to exit")
     tryagain=str(input()).lower()
     if tryagain == 'no':
         print('Thank you for Playing.Goodbye!')
